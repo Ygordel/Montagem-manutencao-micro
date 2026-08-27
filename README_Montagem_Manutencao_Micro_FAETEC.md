@@ -18,7 +18,7 @@ Este repositório organiza, em formato de **curso para GitHub**, os conteúdos t
 
 A proposta é transformar o conteúdo de aula em uma trilha de aprendizagem mais fácil de acompanhar, permitindo que o aluno avance do conhecimento básico de hardware até atividades de montagem, manutenção, diagnóstico, configuração de SETUP e preparação de unidades de armazenamento.
 
-O material-base aborda conceitos básicos, gabinetes, monitores, computadores fixos e móveis, periféricos, discos, conectores, componentes internos, placas de CPU, processadores, memórias, slots, chipset, bateria, segurança na montagem, unidades de armazenamento, FSB, cache, clock, processadores multicore, SETUP, sistemas operacionais, particionamento e formatação. fileciteturn11file0L11-L24
+O material-base aborda conceitos básicos, gabinetes, monitores, computadores fixos e móveis, periféricos, discos, conectores, componentes internos, placas de CPU, processadores, memórias, slots, chipset, bateria, segurança na montagem, unidades de armazenamento, FSB, cache, clock, processadores multicore, SETUP, sistemas operacionais, particionamento e formatação. 
 
 ---
 
@@ -179,7 +179,7 @@ Identificar a placa-mãe e compreender a função dos seus principais elementos.
 - bateria da placa-mãe;
 - cabos e acessórios.
 
-O material-base destaca placa-mãe, chipset, bateria, soquetes, memória RAM, slots e conectores como elementos centrais do estudo. fileciteturn11file0L13-L17
+O material-base destaca placa-mãe, chipset, bateria, soquetes, memória RAM, slots e conectores como elementos centrais do estudo. 
 
 ## 🔎 Desafio
 
@@ -440,13 +440,13 @@ Compreender a configuração básica do computador e a preparação das unidades
 - sistemas de arquivos;
 - inicialização por diferentes mídias.
 
-O material apresenta SETUP, seus campos de configuração, mensagens de erro e procedimentos de recuperação como parte da aula. fileciteturn11file2L94-L101
+O material apresenta SETUP, seus campos de configuração, mensagens de erro e procedimentos de recuperação como parte da 
 
-O material também aborda sistema operacional, mídia de instalação, imagens ISO, particionamento e formatação. fileciteturn11file2L102-L117
+O material também aborda sistema operacional, mídia de instalação, imagens ISO, particionamento e formatação. 
 
 ## ⚠️ Atenção — atualização de BIOS
 
-O material alerta que uma atualização de BIOS interrompida pode causar falha de funcionamento da placa-mãe e recomenda conferir cuidadosamente o arquivo correspondente ao modelo da placa. fileciteturn11file3L128-L140
+O material alerta que uma atualização de BIOS interrompida pode causar falha de funcionamento da placa-mãe e recomenda conferir cuidadosamente o arquivo correspondente ao modelo da placa. 
 
 **Nunca realize uma atualização de firmware sem confirmar a documentação e a compatibilidade do equipamento.**
 
@@ -461,20 +461,6 @@ Um computador chega à bancada apresentando o seguinte problema:
 > **O equipamento liga, mas não inicializa corretamente.**
 
 O aluno deverá elaborar um procedimento de diagnóstico.
-
-### Entrega
-
-```text
-1. Descrição do sintoma
-2. Possíveis causas
-3. Ordem dos testes
-4. Resultado esperado
-5. Resultado encontrado
-6. Diagnóstico
-7. Procedimento de correção
-8. Teste final
-9. Registro do atendimento
-```
 
 ---
 
@@ -494,7 +480,7 @@ Responder questões sobre:
 - BIOS;
 - armazenamento.
 
-O material-base utiliza atividades e questões de revisão ao longo das aulas, inclusive sobre SETUP, BIOS e configuração do computador. fileciteturn11file3L141-L152
+O material-base utiliza atividades e questões de revisão ao longo das aulas, inclusive sobre SETUP, BIOS e configuração do computador.
 
 ## Parte 2 — Identificação
 
@@ -550,44 +536,6 @@ Realizar:
 - [ ] Concluí o Módulo 10
 - [ ] Realizei o projeto final
 - [ ] Realizei a avaliação
-
----
-
-# 📂 Estrutura recomendada do repositório
-
-```text
-montagem-manutencao-micro/
-│
-├── README.md
-│
-├── docs/
-│   ├── modulo-01-fundamentos.md
-│   ├── modulo-02-gabinete-perifericos.md
-│   ├── modulo-03-placa-mae.md
-│   ├── modulo-04-processador-barramentos.md
-│   ├── modulo-05-memorias.md
-│   ├── modulo-06-seguranca-manutencao.md
-│   ├── modulo-07-montagem.md
-│   ├── modulo-08-diagnostico.md
-│   ├── modulo-09-processadores.md
-│   ├── modulo-10-setup-armazenamento.md
-│   └── projeto-final.md
-│
-├── imagens/
-│   ├── placa-mae/
-│   ├── processador/
-│   ├── memoria/
-│   ├── armazenamento/
-│   └── montagem/
-│
-├── atividades/
-│   ├── questionario.md
-│   ├── checklist-montagem.md
-│   └── avaliacao-final.md
-│
-└── referencias/
-    └── referencias.md
-```
 
 ---
 
