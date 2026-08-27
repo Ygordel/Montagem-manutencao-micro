@@ -214,8 +214,7 @@ Compreender como os componentes se comunicam e conhecer a função do processado
 
 ## Conceito importante
 
-O material apresenta o **FSB (Frontside Bus)** como barramento relacionado à comunicação do processador com a memória RAM e apresenta também o Backside Bus em arquiteturas históricas com cache L2 integrado. fileciteturn11file1L66-L69
-
+O material apresenta o **FSB (Frontside Bus)** como barramento relacionado à comunicação do processador com a memória RAM e apresenta também o Backside Bus em arquiteturas históricas com cache L2 integrado. 
 ## Atividade
 
 Explique com suas próprias palavras:
@@ -247,7 +246,7 @@ Conhecer os principais conceitos relacionados à memória e ao processamento.
 - processadores multicore;
 - multiprocessadores.
 
-O material caracteriza a RAM como memória principal, temporária e volátil. fileciteturn11file0L33-L42
+O material caracteriza a RAM como memória principal, temporária e volátil.
 
 ## 🧠 Fixação
 
@@ -284,7 +283,7 @@ Aprender a realizar intervenções com segurança e reduzir riscos de danos aos 
 - cuidados durante a montagem;
 - organização da bancada.
 
-Esses riscos aparecem explicitamente no material-base como perigos da montagem sem técnica. fileciteturn11file0L16-L18
+Esses riscos aparecem explicitamente no material-base como perigos da montagem sem técnica. 
 
 ## 🛠️ Checklist de segurança
 
@@ -397,7 +396,7 @@ Compreender a evolução dos processadores e alguns conceitos de arquitetura.
 - processadores multicore;
 - multiprocessadores.
 
-O material-base aborda FSB, cache, clock interno, evolução dos processadores, processadores multicore e multiprocessadores. fileciteturn11file1L61-L69
+O material-base aborda FSB, cache, clock interno, evolução dos processadores, processadores multicore e multiprocessadores. 
 
 ## 🧠 Atividade
 
